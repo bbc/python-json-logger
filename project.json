@@ -1,0 +1,6 @@
+{
+    "name" : "python-json-logger",
+    "packaging" : {
+        "type" : "spec"
+    }
+}
